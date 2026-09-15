@@ -9,3 +9,5 @@ cache/
 .latex-tmp/
 .review-tmp/
 *.dtmp
+.drawio-tmp/
+figures/
